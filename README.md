@@ -33,7 +33,7 @@
   Contracts on a Blockchain
 * Ganache: It provides a locally Blockchain for Testing Purpose
 * MetaMask: A Browser Extension to connect with the Blockchain. It contains the Wallet for Ethereum
-* Web3.js Connect the Browser with MetaMask Extension to the Blockchain based Website
+* Web3.js: Connect the Appication (Browser with MetaMask Extension) to the Blockchain based Website
 
 ### Update Dependencies (Node.js Modules)
 
